@@ -86,4 +86,3 @@ git commit -m "Commit 3: Added final project documentation and insights"
 git push origin main
 
 
-Commit 3: Added final README documentation and report
